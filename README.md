@@ -29,7 +29,7 @@ Installation guides go above and beyond our official Red Hat documentation. Exam
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [0.00](./000-installation/README.md)       | [Overview](./000-installation/README.md)       |
+| :heavy_check_mark: | [000.000](./000-installation/README.md)       | [Overview](./000-installation/README.md)       |
 
 ## Standard Kubernetes Functionality
 
@@ -37,7 +37,7 @@ These guides should be focused on demonstrating OpenShift and Kubernetes parity.
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [1.00](./100-platform/README.md)   | [Overview](./100-platform/README.md)         |
+| :heavy_check_mark: | [100.000](./100-platform/README.md)   | [Overview](./100-platform/README.md)         |
 
 ## Infrastructure Guides
 
@@ -45,7 +45,7 @@ Infrastructure guides will be focused on hardware-specific deployments, such as 
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [2.00](./200-infrastructure/README.md)          | [Overview](./200-infrastructure/README.md)        |
+| :heavy_check_mark: | [200.000](./200-infrastructure/README.md)          | [Overview](./200-infrastructure/README.md)        |
 
 ## Networking Guides
 
@@ -53,7 +53,8 @@ Unlike the infrastructure guides, networking is specifically focused on network-
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [3.00](./300-network/README.md)        | [Overview](./300-network/README.md)      |
+| :heavy_check_mark: | [300.000](./300-network/README.md)        | [Overview](./300-network/README.md)      |
+| :heavy_check_mark: | [300.100](./300-network/README.md#300100 )        | [Create a service type `LoadBalancer` for bare metal  (MetalLB)](./300-network/README.md#300100 )      |
 
 ## Storage Guides
 
@@ -61,7 +62,7 @@ These guides will be focused on storage deployments, integration, and operation.
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [4.00](./400-storage/README.md)        | [Overview](./400-storage/README.md)      |
+| :heavy_check_mark: | [400.000](./400-storage/README.md)        | [Overview](./400-storage/README.md)      |
 
 ## Security Guides
 
@@ -69,7 +70,7 @@ Security guides will focus on many areas of security. This could be RHCOS securi
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [5.00](./500-security/README.md)       | [Overview](./500-security/README.md)     |
+| :heavy_check_mark: | [500.000](./500-security/README.md)       | [Overview](./500-security/README.md)     |
 
 ## Self-Service Guides
 
@@ -77,13 +78,13 @@ Anything related to self-service within the OpenShift platform should be include
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [6.00](./600-self-service/README.md)   | [Overview](./600-self-service/README.md) |
+| :heavy_check_mark: | [600.000](./600-self-service/README.md)   | [Overview](./600-self-service/README.md) |
 
 ## User Experience
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [7.00](./700-user/README.md)          | [Overview](./700-user/README.md)        |
+| :heavy_check_mark: | [700.000](./700-user/README.md)          | [Overview](./700-user/README.md)        |
 
 ## Developer Experience
 
@@ -91,10 +92,10 @@ Developer-focused use cases and overall developer experience.
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [8.00](./800-developer/README.md)    | [Overview](./800-developer/README.md)    |
+| :heavy_check_mark: | [800.000](./800-developer/README.md)    | [Overview](./800-developer/README.md)    |
 
 ## Logging, Alerting, and Monitoring
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [9.00](./900-lma/README.md)           | [Overview](./900-lma/README.md)           |
+| :heavy_check_mark: | [900.000](./900-lma/README.md)           | [Overview](./900-lma/README.md)           |
