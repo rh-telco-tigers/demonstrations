@@ -31,13 +31,14 @@ Installation guides go above and beyond our official Red Hat documentation. Exam
 | ----------- | ----------- | ----------- |
 | :heavy_check_mark: | [000.000](./000-installation/README.md)       | [Overview](./000-installation/README.md)       |
 
-## Standard Kubernetes Functionality
+## Standard Kubernetes Guides (via OpenShift)
 
 These guides should be focused on demonstrating OpenShift and Kubernetes parity.
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
 | :heavy_check_mark: | [100.000](./100-platform/README.md)   | [Overview](./100-platform/README.md)         |
+| :heavy_check_mark: | [100.100](./100-platform/README.md#100100 )        | [Implement pod autoscaling on a given workload with test workload with custom metrics](./100-platform/README.md#100100 )      |
 
 ## Infrastructure Guides
 
