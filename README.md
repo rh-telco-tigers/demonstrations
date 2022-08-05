@@ -98,4 +98,6 @@ Developer-focused use cases and overall developer experience.
 
 |             |  Section    | Title/Goal  |
 | ----------- | ----------- | ----------- |
-| :heavy_check_mark: | [900.000](./900-lma/README.md)           | [Overview](./900-lma/README.md)           |
+| :heavy_check_mark: | [900.000](./900-lma/README.md)                | [Overview](./900-lma/README.md)           |
+| :heavy_check_mark: | [900.100](./900-lma/README.md#900100 )        | [Install Red Hat OpenShift Logging Operator for in-cluster logging (not related to remote forwarding)](./900-lma/README.md#900100 )      |
+
